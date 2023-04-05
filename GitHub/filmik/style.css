@@ -1,0 +1,53 @@
+body {
+    background-color:aliceblue;
+    background-image: url(footer_lodyas.png);
+    font-family: 'Lato', sans-serif;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 200%; 
+}
+#logo{ 
+    width:100%;
+    background-color:bisque;
+    height:100px ;
+    text-align:center;
+    background-image: url(congruent_outline.png);
+    color:aliceblue;
+    border: red solid;
+    border-radius: 2rem;
+    font-size: 220%; 
+    letter-spacing: 2px;
+    text-shadow:
+    2px 2px 0 black,
+    -1px 1px 0 black,
+    1px -1px 0 black,
+    2px -2px 0 black;
+}
+#container{
+    width:900px;
+    background-color:aqua;
+    height:100vh;
+    margin-inline:auto;
+    text-align:center;
+    background-image: url(lepszetlo.png);
+    color:aliceblue;
+
+}
+#stopka{
+    width:100%;
+    background-color:brown;
+    height:100px;
+    text-align:center;
+    color:aliceblue;
+    margin-top: 5px
+}
+#spis{
+    text-align: left;
+    font-size: 80%
+}
+ol > li > ul > li a{
+    font-size:40%
+
+}
+a {
+    color: white
+}

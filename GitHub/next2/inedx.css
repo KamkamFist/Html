@@ -1,0 +1,115 @@
+html, body {
+    color:rgb(245, 245, 245);
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    align-items: center;
+
+    
+}
+#tytul {
+    background-color: black;
+    height: 100px;
+    margin-top: 0px;
+    text-align: center;
+    padding-left: 400px
+    
+    
+   
+}
+h1 {
+    margin: 0px;
+    padding: 20px;
+    float: left
+}
+button {
+ 
+    margin-top: 30px;
+    height: 40px;
+    width: 100px;
+    color: rgb(0, 0, 0);
+    background-color: darkslategrey
+}
+#smietnik{
+width: 1200px;
+height: 790px;
+background-color: rgb(255, 255, 255);
+margin-left: auto ;
+margin-right: auto ;
+margin-top: 30px;
+padding-top: 20px;
+
+
+
+}
+#reszta {
+    width: 100%;
+}
+.duze{
+    background-color:black;
+    width: 960px;
+    height: 360px;
+    margin-left: auto ;
+    margin-right: auto ;
+    margin-top: 20px;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.male1 {
+    background-color:black;
+    width: 313px;
+    height: 180px;
+   margin: 0px;
+   margin-left: 120px;
+   margin-top: 10px;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    float:left
+}
+.male2 {
+    background-color:black;
+    width: 313px;
+    height: 180px;
+   margin: 10px;
+   margin-left: 10px;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    float:left
+}
+.male3 {
+    background-color:black;
+    width: 313px;
+    height: 180px;
+   margin: 10px;
+   margin-left: 40px;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.tekst1 {
+     font-size: 20px;
+     margin-left: 120px;
+     color:black;
+     float: left
+}
+.tekst2 {
+    font-size: 20px;
+    margin-left: 150px;
+    color:black;
+    float: left
+}
+.tekst3 {
+    font-size: 20px;
+    margin-left: 210px;
+    color: black;
+    float: left;
+    margin-top: 30px;
+}

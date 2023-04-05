@@ -1,0 +1,134 @@
+html, body {
+    font-family: 'Lato', sans-serif;
+    background-color: #303030;
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-size: 1000%;
+    animation: kolor 5s linear infinite;
+    animation-direction: alternate;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(31,31,31,1) 50%, rgba(0,0,0,1) 100%);
+}
+
+
+  
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.square{
+    float: left;
+}
+.rectangle {
+ width: 1000px;
+ text-align: center;
+}
+#container {
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo {
+    float:left;
+    font-size: 70px;
+    width: 600px;
+}
+#zegar {
+    font-size: 65px;
+    float: left
+}
+.title1 {
+    margin: 3px;
+    width: 244px;
+    height: 142px;
+    background-color: #3095d3;
+    float:left;
+   
+}
+.title2 {
+    margin: 3px;
+    width: 244px;
+    height: 142px;
+    background-color: #66666666;
+
+    float:left
+
+
+}
+.title3 {
+    margin: 3px;
+    width: 244px;
+    height: 142px;
+    background-color: #aaff00;
+    float:left
+
+
+
+    
+
+}
+.title4 {
+    margin: 3px;
+    width: 494px;
+    height: 142px;
+    background-color: #ee5a32;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title5 {
+    margin: 3px;
+    width: 494px;
+    height: 290px;
+    background-color: #66666666;
+    
+}
+.yt {
+    margin: 3px;
+    width: 119px;
+    height: 142px;
+    background-color: #d94348 ;
+    float:left
+}
+.fb {
+    margin: 3px;
+    width: 119px;
+    height: 142px;
+    background-color: #4668b3;
+    float:left
+}
+.ig{
+    margin: 3px;
+    width: 119px;
+    height: 142px;
+    background-color: #d95333;
+    float:left
+}
+.twit {
+    margin: 3px;
+    width: 119px;
+    height: 142px;
+    background-color: #3095d3;
+    float:left
+}
+.twit, .ig, .fb, .yt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 300%
+}
+.title1, .title2, .title3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column
+    
+}
+.square div:hover {
+    background-color:#aaff00;
+    color: black;
+}

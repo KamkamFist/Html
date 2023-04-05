@@ -1,0 +1,39 @@
+body, html{
+background-color: grey;
+}
+#div1, #div2, #div3, #div4 {
+width: 45%;
+height: 40vh;
+margin: 10px;
+}
+#div1{
+    background-color: green;
+    float: left;
+}
+#div2{
+    background-color: rgb(63, 66, 63);
+    float: left;
+}
+#div3{
+    background-color: rgb(63, 66, 63);
+    float: left;
+}
+#div4{
+    background-color: #3f423f;
+    float: left;
+}
+button{
+width: 600px;
+height: 50px;
+margin:10px;
+float:left;
+}
+#prawy{
+    width: 50%;
+    float:left;
+    margin-top:200px;
+}
+#lewy{
+    width: 50%;
+    float:left;
+}
